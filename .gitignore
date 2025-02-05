@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.idea/
+.vscode/
+
+# Environment Variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+debug.log
+
+# Docker
+docker-compose.override.yml
+
+# Database
+*.sqlite3
+*.db
+
